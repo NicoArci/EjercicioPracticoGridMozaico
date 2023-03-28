@@ -19,35 +19,35 @@
 
 .bloque1 {
   background-color: aliceblue;
-   
+   grid-row: 1/3;
 }
 .bloque2 {
   background-color: orange;
 }
 .bloque3 {
   background-color: rebeccapurple;
-  
+  grid-area: 1/3/5/4;
 }
 .bloque4 {
   background-color: darkcyan;
-  
+  grid-area: 1/4/3/5;
 }
 .bloque5 {
   background-color: firebrick;
-  
+  grid-area: 3/1/4/2;
    
 }
 .bloque6 {
   background-color: thistle;
-  
+  grid-area: 2/2/4/3;
 }
 .bloque7 {
   background-color: lawngreen;
-  
+  grid-area: 4/1/5/3;
 }
 .bloque8 {
   background-color: yellow;
-  
+  grid-area: 3/4/5/5;
 }
 .bloque9 {
   background-color: bisque;
